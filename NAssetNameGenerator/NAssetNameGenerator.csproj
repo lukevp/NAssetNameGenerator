@@ -9,9 +9,9 @@
     <Description>.NET Standard 2.0 Implementation of random asset name generation similar to the way Docker works.</Description>
     <Copyright>Copyright 2019 CandL Development, LLC.</Copyright>
     <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
-    <RepositoryUrl>https://github.com/lukevp/ESC-POS-.NET</RepositoryUrl>
+    <RepositoryUrl>https://github.com/lukevp/NAssetNameGenerator</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>random name generator generation container docker naming asset tags automatic collision detection</PackageTags>
-    <Version>0.2.0</Version>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 </Project>
